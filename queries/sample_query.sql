@@ -1,1 +1,1 @@
-SELECT * FROM "fmcg_db"."delivery" limit 100;git
+SELECT * FROM "fmcg_db"."delivery" limit 100;
